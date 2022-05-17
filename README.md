@@ -19,3 +19,9 @@ class MyClass:
     def message(): # método da classe
         print('Hello world')
 ```
+
+A instância de uma classe funciona da mesma forma que uma função, veja um exemplo:
+
+```python
+x = MyClass()
+```
