@@ -25,3 +25,11 @@ A instância de uma classe funciona da mesma forma que uma função, veja um exe
 ```python
 x = MyClass()
 ```
+
+Para acessar um atributo ou método da classe:
+
+```python
+x = MyClass()
+x.i # saída: 1234
+x.message() # chamando um método. saída: Hello world
+```
